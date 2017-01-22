@@ -16,8 +16,7 @@ namespace Conversions
          
         public static T TryCastAs<T>(this object Value, T Default = default(T))  
         { 
-            T response;
-              
+            T response;       
             try
             {
                 response = Value.CastAs<T>();
