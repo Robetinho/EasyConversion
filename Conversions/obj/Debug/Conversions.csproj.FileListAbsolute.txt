@@ -1,0 +1,5 @@
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\bin\Debug\Conversions.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\bin\Debug\Conversions.pdb
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.pdb

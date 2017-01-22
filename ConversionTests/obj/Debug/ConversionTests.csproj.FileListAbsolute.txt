@@ -1,0 +1,8 @@
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\bin\Debug\ConversionTests.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\bin\Debug\ConversionTests.pdb
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\bin\Debug\Conversions.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\bin\Debug\Conversions.pdb
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\obj\Debug\ConversionTests.csprojResolveAssemblyReference.cache
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\obj\Debug\ConversionTests.dll
+c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests\obj\Debug\ConversionTests.pdb
