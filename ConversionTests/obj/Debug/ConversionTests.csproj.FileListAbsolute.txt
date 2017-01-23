@@ -9,7 +9,6 @@ c:\users\rober\documents\visual studio 2015\Projects\Conversions\ConversionTests
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\bin\Debug\ConversionTests.dll
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\bin\Debug\ConversionTests.pdb
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\bin\Debug\Conversions.dll
-C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\bin\Debug\Conversions.pdb
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\obj\Debug\ConversionTests.csprojResolveAssemblyReference.cache
 C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\ConversionTests\obj\Debug\ConversionTests.dll

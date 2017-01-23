@@ -5,7 +5,7 @@ using Conversions;
 namespace ConversionTests
 {
     [TestClass]
-    public class UnitTests
+    public class ConversionTest
     {
         [TestMethod]
         public void TestMethod1()
