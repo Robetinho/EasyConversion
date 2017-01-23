@@ -3,3 +3,8 @@ c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\bin
 c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
 c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.dll
 c:\users\rober\documents\visual studio 2015\Projects\Conversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\Conversions\bin\Debug\Conversions.dll
+C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\Conversions\bin\Debug\Conversions.pdb
+C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\Conversions\obj\Debug\Conversions.dll
+C:\Users\rober\Documents\Visual Studio 2015\Projects\EasyConversion\Conversions\obj\Debug\Conversions.pdb
