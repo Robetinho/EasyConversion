@@ -40,10 +40,12 @@ namespace ConversionTests
 
             Assert.AreEqual("hello", new NullReferenceException().TryCastAs<string>("hello"));
 
-            Assert.AreEqual("1", 1.TryCastAs<string>("hello"));
+            Assert.AreEqual("1", 1.TryCastAs<string>("hello")); 
+            Assert.AreEqual(1.CastAs<string>(), "1");
 
-
-
+            Assert.AreEqual(null, ((string)null).TryCastAs<string>("hello"));
+            Assert.AreEqual(123, ((string)null).TryCastAs<int>(123));
+            Assert.AreEqual(null, ((string)null).TryCastAs<NullReferenceException>());
         }
     }
 }
